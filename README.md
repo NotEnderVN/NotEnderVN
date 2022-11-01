@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notendervn&label=Profile%20views&color=0e75b6&style=flat" alt="notendervn" /> </p>
 
-- 🔭 I’m currently working on [NovalMC](https://discord.io/novalmc)
+- 🔭 I’m founder of [Sunrise Store (VN)](https://discord.io/sunrisestore)
 
 - 🌱 I’m currently learning **Java Core**
 
