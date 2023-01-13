@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notendervn&label=Profile%20views&color=0e75b6&style=flat" alt="notendervn" /> </p>
 
-- 🔭 Here is my small shop on Discord (Vietnamese): [Sunrise Store ](https://discord.io/sunrisestore)
+- 🔭 Here is my small shop on Discord (Vietnamese): [Valley Store ](https://dsc.gg/valleystore)
 
 - 🌱 I’m currently learning **Java Core**
 
-- 📫 Reach me via **NotEnder#9204 (Discord)**
+- 📫 Reach me via **ender#8613 (Discord)**
 
 - ⚡ Fun fact **I think I'm from Mars with Elong Ma**
 
