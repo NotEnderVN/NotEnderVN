@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Core**
 
-- 📫 Reach me via **ender#8613 (Discord)**
+- 📫 Reach me via **ender#8023 (Discord)**
 
 - ⚡ Fun fact **I think I'm from Mars with Elong Ma**
 
