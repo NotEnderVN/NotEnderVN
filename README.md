@@ -1,20 +1,22 @@
-<h1 align="center">Hii~ 😉, I'm NotEnder</h1>
+<h1 align="center">Hii~ 😉, I'm ender</h1>
 <h3 align="center">from Vietnam 😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notendervn&label=Profile%20views&color=0e75b6&style=flat" alt="notendervn" /> </p>
 
-- 🔭 Here is my small shop on Discord (Vietnamese): [Valley Store ](https://discord.gg/valleystore)
+- 🔭 Here is my small shop on Discord (Vietnamese): [Catto Shop](https://discord.gg/cattoshop)
 
 - 🌱 I’m currently learning **Java Core**
 
-- 📫 Reach me via **notend3r** (Discord)
+- 📫 Reach me via **notend3r** (Discord - gateway account)
 
 - ⚡ Fun fact **I think I'm from Mars with Elong Ma**
+
+- ✨ My bio: [https://e-z.bio/notender](https://e-z.bio/notender)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/notendervn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="notender" height="30" width="40" /></a>
-<a href="https://dsc.gg/valleystore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EcDs4dnVsx" height="30" width="40" /></a>
+<a href="https://discord.gg/cattoshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EcDs4dnVsx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
