@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notendervn&label=Profile%20views&color=0e75b6&style=flat" alt="notendervn" /> </p>
 
-- 🔭 Here is my small shop on Discord (Vietnamese): [Catto Shop](https://discord.gg/cattoshop)
+- 🔭 Here is my small shop on Discord (Vietnamese): [Furina Store](https://discord.gg/furinastore)
 
 - 🌱 I’m currently learning **Java Core**
 
