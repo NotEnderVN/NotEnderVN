@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Core**
 
-- 📫 Reach me via **notend3r** (Discord - gateway account)
+- 📫 Reach me via **not.end3r** (Discord - gateway account)
 
 - ⚡ Fun fact **I think I'm from Mars with Elong Ma**
 
