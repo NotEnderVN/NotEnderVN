@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notendervn&label=Profile%20views&color=0e75b6&style=flat" alt="notendervn" /> </p>
 
-- 🔭 Here is my small shop on Discord (Vietnamese): [Alora Store](https://discord.gg/alorastore)
+- 🔭 Here is my Vietnamese MC Server: [AsakaMC](https://asakamc.xyz)
 
 - 🌱 I’m currently learning **Java Core**
 
-- 📫 Reach me via **not.end3r** (Discord - gateway account)
+- 📫 Reach me via **notend3r** (Discord)
 
 - ⚡ Fun fact **I think I'm from Mars with Elong Ma**
 
