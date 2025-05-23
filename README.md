@@ -7,7 +7,7 @@
 <a href="https://github.com/NotEnderVN"><img align="left" width="125" src="./images/airi_1.png"></a>
 Nice to meet you! My name is **Huy** (**Ender** is my nickname on the internet).
 <br> ~ I am from **Đà Nẵng, Việt Nam** and currently a student.
-<br> ~ I really, really love cats 🐱 and coffee ☕ (especially coconut coffee <3). I also enjoy coding, gaming, watching anime in my free time.
+<br> ~ I really, really love cats 🐱 and coffee ☕ (especially salt coffee <3). Coding is my hoppy and I also enjoy gaming and watching anime in my free time.
 
 <br><br>
 
