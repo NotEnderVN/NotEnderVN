@@ -1,7 +1,5 @@
 <h1 align="center">Hello there! 👋</h1>
 
-<a href="https://github.com/NotEnderVN">![Preview](./images/background.png)</a>
-
 ## 🍵 Introduction
 
 <a href="https://github.com/NotEnderVN"><img align="left" width="125" src="./images/airi_1.png"></a>
@@ -24,4 +22,3 @@ Nice to meet you! My name is **Huy** (**Ender** is my nickname on the internet).
 <br>~ Discord: [notend3r](https://discord.com/users/580241620151042058)
 <br>~ Facebook: [notend3r](https://www.facebook.com/notend3r/)
 <br>~ Bio: [e-z.bio/notender](https://e-z.bio/notender)
-<br>~ Kosori Dev Discord: [discord.gg/TDVDyBAEBM](discord.gg/TDVDyBAEBM)
