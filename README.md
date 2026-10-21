@@ -13,5 +13,5 @@ Nice to meet you! I am **Huy**, but you can call me **ender** instead.
 Beside GitHub, you can reach out me via:
 <br>~ Discord: [notend3r](https://discord.com/users/580241620151042058)
 <br>~ Facebook: [notend3r](https://www.facebook.com/notend3r/)
-<br>~ Bio: [ender.nyom.lol](https://ender.nyom.lol/) | [(alt)](https://e-z.bio/notender)
+<br>~ Bio: [e-z.bio/notender](https://e-z.bio/notender)
 <br>**⚠️** [No Hello](https://nohello.net/), [Don't ask to ask](https://dontasktoask.com/)
